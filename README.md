@@ -1,1 +1,1 @@
-- [velozar]('https://github.com/slava-zhevaha/TEL-RAN-velozar')
+- [velozar](https://sl101.github.io/TelRan-shop-basket)
