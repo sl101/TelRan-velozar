@@ -1,1 +1,1 @@
-- [velozar](https://sl101.github.io/TelRan-shop-basket)
+- [velozar](https://sl101.github.io/TelRan-velozar)
