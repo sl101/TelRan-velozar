@@ -1,0 +1,23 @@
+.content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 50px;
+
+}
+
+.title {
+	font-size: 36px;
+	margin-bottom: 40px;
+}
+
+.image {
+	height: auto;
+	object-fit: cover;
+}
+
+.description {
+	line-height: 36px;
+	letter-spacing: 3px;
+	word-spacing: 12px;
+}
