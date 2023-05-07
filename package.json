@@ -2,7 +2,7 @@
 	"name": "thrivetalk",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/slava-zhevaha/TEL-RAN-velozar",
+	"homepage": "https://sl101.github.io/TelRan-shop-basket",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
